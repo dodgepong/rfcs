@@ -21,9 +21,9 @@ Users would like a way to organize their scene list to make it easier to find th
 
 Submit a proposal explaining how you will implement this feature such that it meets the following requirements:
 
-* New functionality are added to the Scenes list that allow users to organize their list of scenes. Functionality should include:
+* New functionality is added to the Scenes list that allow users to organize their list of scenes. Functionality includes:
     * The ability to group or associate related scenes together
-    * The ability to conditionally hide or show groups of scenes or associated scenes
+    * The ability to conditionally hide or show groups of scenes or scenes that are otherwise associated with one another
 * The new functionality follows or closely resembles existing established usability conventions such that users are more likely understand intuitively how these organizational tools can and should be used.
 * The new functionality is easy to employ or delete, and scenes behave in a predictable manner when the functionality is deleted.
 * The new function behaves reasonably in context of how the multiview is currently populated.

@@ -28,8 +28,8 @@ OBS and VideoLAN have partnered to create a program where developers can contrib
 We've created a process to ensure multiple contributors aren’t working on the same project and to make sure work is pulled into OBS once completed.
 
 1. Read the Request For Proposal document completely.
-2. If you want to move forward, submit an proposal to the OBS team on your suggested implementation by making a pull request adding a `proposal.md` file to the RFP's folder in this repository, copying the [template]().
-3. Work with the OBS team to finalize plans for the best implementation.
+2. If you want to move forward, submit an proposal to the OBS team on your suggested implementation by making a pull request modifying the `proposal.md` file inside the RFP's folder in this repository, noting that it addresses the RFP's associated issue number.
+3. Work with the OBS team to finalize plans for the best implementation. Proposals will be judged on their maintainability, design quality, and adherence to spec. Note that other developers may submit competing proposals at this time as well.
 4. If your proposal is accepted, you may begin code implementation that adheres to your proposal and following the [OBS contributing guidelines](https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst).
 5. Submit code as a draft in the appropriate `obsproject` repositories so OBS community leaders can track progress.
 6. Once code is complete, remove draft status and notify OBS maintainers.

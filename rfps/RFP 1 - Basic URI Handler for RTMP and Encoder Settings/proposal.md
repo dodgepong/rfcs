@@ -1,4 +1,4 @@
-# Proposal for RFP #X -- RFP Description
+# Proposal for RFP #1 -- Basic URI Handler for RTMP and Encoder Settings
 
 Author: Firstname Lastname
 

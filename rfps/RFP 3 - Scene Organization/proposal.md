@@ -1,11 +1,11 @@
 # Proposal for RFP #3 -- Scene Organization
 
-Author: Firstname Lastname
+Author: Ben Torell
 
 ## Summary
 
-_Summarize your implementation strategy._
+I'd add scene folders
 
 ## Proposal
 
-_Details about your implementation strategy, including API changes, UI/UX changes, mockups, flowcharts, etc._
+They would be rad
